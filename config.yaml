@@ -1,0 +1,9 @@
+simulation:
+  ev_to_socket_ratio: 12
+chargebot:
+  unit_price_euro: 50000
+  capacity_per_unit: 50
+fixed_infrastructure:
+  ac_unit_cost: 2000
+  dc_unit_cost: 25000
+  base_installation_cost: 5000
